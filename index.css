@@ -3,10 +3,14 @@ div {
     text-transform: uppercase;
     font-weight: 800;
     color: black;
+    background-size:auto;
 }
 
 .links {
     font-weight:300;
-    background-color: orange; 
-    font-size: 18px;
+}
+
+.top-img {
+    height: auto;
+    width: 100px;
 }
