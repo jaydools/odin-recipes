@@ -1,7 +1,12 @@
-.title {
+div {
     background-color: bisque;
     text-transform: uppercase;
     font-weight: 800;
     color: black;
 }
 
+.links {
+    font-weight:300
+    background-color: orange;
+    font-size: 18px;
+}
